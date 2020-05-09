@@ -1,0 +1,3 @@
+ringBuff.c:16:6:RingBuff_Init	4	static
+ringBuff.c:41:4:Write_RingBuff	16	static
+ringBuff.c:74:4:Read_RingBuff	16	static

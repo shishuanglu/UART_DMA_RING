@@ -1,0 +1,4 @@
+uartBsp.c:59:4:ucFindOneFrame	32	static
+uartBsp.c:133:6:HAL_UART_RxCpltCallback	16	static
+uartBsp.c:142:6:vUartRecvIDLE_CallBack	24	static
+uartBsp.c:186:6:vUartBspInit	8	static
